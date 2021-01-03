@@ -1,11 +1,4 @@
 /* *****************************************************************************
- *  Name:    Vicki Yang
- *  NetID:   vyang
- *  Precept: P04
- *
- *  Partner Name:    N/A
- *  Partner NetID:   N/A
- *  Partner Precept: N/A
  *
  *  Description: This class implements a symbol table whose keys are Points2D
  *  (2-dimensional points), using a 2d generalization of a binary search tree.
