@@ -1,5 +1,4 @@
 /* *****************************************************************************
- *
  *  Description: This class implements a symbol table whose keys are Points2D
  *  (2-dimensional points), using a 2d generalization of a binary search tree.
  *
