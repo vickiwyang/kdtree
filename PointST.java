@@ -1,9 +1,7 @@
 /* *****************************************************************************
- *
  *  Description: This class implements the mutable data type PointST, which uses
  *  the RedBlackBST class to represent a symbol table whose keys are Points2D
  *  (2-dimensional points).
- *
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.Point2D;
