@@ -1,11 +1,4 @@
 /* *****************************************************************************
- *  Name:    Vicki Yang
- *  NetID:   vyang
- *  Precept: P04
- *
- *  Partner Name:    N/A
- *  Partner NetID:   N/A
- *  Partner Precept: N/A
  *
  *  Description: This class implements the mutable data type PointST, which uses
  *  the RedBlackBST class to represent a symbol table whose keys are Points2D
